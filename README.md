@@ -109,23 +109,23 @@ http://http://myalb-1667088651.us-east-1.elb.amazonaws.com/
 
 ### Stack Created
 
-![Stack](screenshots/stack_creation.png)
+![Stack](Screenshots/stack_creation.png)
 
 ### EC2 Instances
 
-![EC2](screenshots/Running_EC2_Instances.png)
+![EC2](Screenshots/Running_EC2_Instances.png)
 
 ### Load Balancer
 
-![ALB](screenshots/ALB_DNS_Browser.png)
+![ALB](Screenshots/ALB_DNS_Browser.png)
 
 ### Target Group Health
 
-![Target](screenshots/Target_group.png)
+![Target](Screenshots/Target_group.png)
 
 ### Auto-scaling Output
 
-![Output](screenshots/Auto_scaling_group.png)
+![Output](Screenshots/Auto_scaling_group.png)
 
 ---
 
