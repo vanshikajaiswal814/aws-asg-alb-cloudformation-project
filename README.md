@@ -92,7 +92,7 @@ http://<LoadBalancerDNS>
 http://http://myalb-1667088651.us-east-1.elb.amazonaws.com/
 ```
 
-👉 Refresh multiple times to see different instance responses
+
 
 ---
 
